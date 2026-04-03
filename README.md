@@ -16,6 +16,6 @@ Name: Eduardo Prudêncio Fontenele<br>🎓 Computer Science student at UFMT (Fed
 [![](https://visitcount.itsvg.in/api?id=EduardoPFontenele&icon=0&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoPFontenele&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoPFontenele&layout=compact&theme=tokyonight)
