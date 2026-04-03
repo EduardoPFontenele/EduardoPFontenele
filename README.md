@@ -1,5 +1,5 @@
 # About Me:
-Name: Eduardo Prudêncio Fontenele<br>🎓 Computer Science student at UFMT (Federal University of Mato Grosso), passionate <br>about building things that matter. Always exploring new technologies, writing clean code, <br>and turning ideas into real projects. Currently leveling up my skills and looking for opportunities to grow <br>in the tech world.
+Name: Eduardo Prudêncio Fontenele<br> Computer Science student at UFMT (Federal University of Mato Grosso), passionate <br>about building things that matter. Always exploring new technologies, writing clean code, <br>and turning ideas into real projects. Currently leveling up my skills and looking for opportunities to grow <br>in the tech world.
 # Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eduardopfontenele15@gmail.com) 
 # Tech Stack:
