@@ -2,7 +2,7 @@
 
 Estudante de **Ciência da Computação na UFMT** (Universidade Federal de Mato Grosso), com foco em **IA aplicada e automação**. Gosto de pegar um problema real, como corrigir dezenas de listas de exercícios ou achar a melhor rota numa cidade, e transformar em uma ferramenta que funciona.
 
-Também atuo como instrutor em um projeto de extensão de informática básica e já fui monitor de Programação 1 e Programação 2.
+Também atuo como instrutor em um projeto de extensão de informática básica e já fui monitor de Programação 1 (Python) e Programação 2 (C++).
 
 ## Projetos em destaque
 
